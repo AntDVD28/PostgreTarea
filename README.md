@@ -3,7 +3,7 @@ Operar desde Java sobre una BDOR (PostgreSQL)
 
 Trabajo correspondiente a la asignatura AD (Acceso a Datos) perteneciente a la titulación de Técnico Superior en el Desarrollo de aplicaciones multiplataformas.
 
-En el proyecto se incluye el driver JDBC utilizado el cual debemos agregar a las Bibliotecas de nuestro proyecto.
+En el proyecto se incluye el driver JDBC utilizado.
 
 JDK utilizado versión 1.8.
 
@@ -20,6 +20,8 @@ Pasos para poner en práctica el proyecto:
 
 2. Creación desde NetBeans de un proyecto nuevo con clase principal de tipo "Formulario JFrame" para proporcionar a nuestra aplicación de una interfaz gráfica.
 
-3. Desarrollar el código necesario.
+3. Agregar driver JDBC en las Bibliotecas de nuestro proyecto.
+
+4. Desarrollar el código necesario.
 
 Al compilar el programa podremos ver una interfaz desde la que podremos consultar la información de diferentes viviendas.
