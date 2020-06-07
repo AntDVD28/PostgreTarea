@@ -3,6 +3,10 @@ Operar desde Java sobre una BDOR (PostgreSQL)
 
 Trabajo correspondiente a la asignatura AD (Acceso a Datos) perteneciente a la titulación de Técnico Superior en el Desarrollo de aplicaciones multiplataformas.
 
+En el proyecto se incluye el driver JDBC utilizado el cual debemos agregar a las Bibliotecas de nuestro proyecto.
+
+JDK utilizado versión 1.8.
+
 La aplicación consistía en efectusar diferentes operaciones sobre la BD Anaconda proporcionada por PostgreSQL realizando:
 
 - Creación/Eliminación de tablas
